@@ -1,4 +1,9 @@
 # msix-assets
+
+```./msix-assets -s icon.png -t ./assets_1 -o ./Assets -f png```
+
+
+
 Usage Examples
 Default mode (contain – no distortion, adds transparent padding)
 bash
