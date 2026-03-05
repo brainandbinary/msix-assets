@@ -1,0 +1,10 @@
+[package]
+name = "msix-assets"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+clap = "2.33"
+image = "0.24"
+colored = "2.0"
+anyhow = "1.0"   # for easy error handling
